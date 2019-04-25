@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupFind Launcher", "GroupFind Launcher\GroupFind Launcher.csproj", "{74F9BAE0-1962-40DA-B07C-9DF6856EF431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONE Launcher", "ONE Launcher\ONE Launcher.csproj", "{F8C7117F-7BCC-4074-94CD-B7BCA68BA314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Porsche Launcher", "Porsche Launcher\Porsche Launcher.csproj", "{4218FC8F-A9CF-406C-A5FA-B7CAE6E5FF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestESLCore", "UnitTestESLCore\UnitTestESLCore.csproj", "{A498D05E-34A4-4C16-A6EF-13C83A3D72F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESLCore", "ESLCore\ESLCore.csproj", "{1CCCCC28-0B85-4999-BE42-2287851B8DFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fonts", "Fonts", "{CBED160F-5595-4BF4-9B09-F2D048EE7682}"
+	ProjectSection(SolutionItems) = preProject
+		Fonts\FiraMono-Regular.ttf = Fonts\FiraMono-Regular.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F9BAE0-1962-40DA-B07C-9DF6856EF431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F9BAE0-1962-40DA-B07C-9DF6856EF431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F9BAE0-1962-40DA-B07C-9DF6856EF431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F9BAE0-1962-40DA-B07C-9DF6856EF431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C7117F-7BCC-4074-94CD-B7BCA68BA314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C7117F-7BCC-4074-94CD-B7BCA68BA314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C7117F-7BCC-4074-94CD-B7BCA68BA314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C7117F-7BCC-4074-94CD-B7BCA68BA314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4218FC8F-A9CF-406C-A5FA-B7CAE6E5FF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4218FC8F-A9CF-406C-A5FA-B7CAE6E5FF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4218FC8F-A9CF-406C-A5FA-B7CAE6E5FF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4218FC8F-A9CF-406C-A5FA-B7CAE6E5FF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A498D05E-34A4-4C16-A6EF-13C83A3D72F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A498D05E-34A4-4C16-A6EF-13C83A3D72F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A498D05E-34A4-4C16-A6EF-13C83A3D72F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A498D05E-34A4-4C16-A6EF-13C83A3D72F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCCCC28-0B85-4999-BE42-2287851B8DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCCCC28-0B85-4999-BE42-2287851B8DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCCCC28-0B85-4999-BE42-2287851B8DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCCCC28-0B85-4999-BE42-2287851B8DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9B94976-AB0C-4D3B-844E-89892DBA8136}
+	EndGlobalSection
+EndGlobal
